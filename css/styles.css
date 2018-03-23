@@ -1,0 +1,87 @@
+
+
+
+
+body{
+  background-color: gray;
+}
+
+a{
+  color: darkblue;
+}
+
+.centered{
+  text-align: center;
+}
+
+.rbText{
+  padding-left: 1%;
+}
+
+#contact{
+  background: white;
+  padding-top: 1vh;
+  padding-top: 1vh;
+  padding-bottom: 1%;
+}
+
+#contact span{
+  margin-left: 4vw;
+}
+
+#footer{
+  margin-top: 4vh;
+  font-size: 1em;
+}
+
+#footer p{
+  margin: 0 0 0 0;
+}
+
+#home{
+  margin-top: 5vh;
+  height: 40vh;
+}
+
+#hours{
+  margin-top: 4vh;
+}
+
+#leftBank{
+  height: 100%;
+  width: 23vw;
+  padding-top: 1%;
+  padding-left: 1%;
+  padding-right: 1%;
+  background-color: white;
+  position: absolute;
+}
+
+#logo{
+  padding-top: 5%;
+  height: 75%;
+  width: 75%;
+}
+
+#menu{
+  margin-top: 4vh;
+}
+
+#menu h3{
+  font-size: 1.75em;
+  margin-top: 3vh;
+}
+
+#rightBank{
+  margin-left: 23vw;
+}
+
+#slides {
+  display:none;
+  height: 10%;
+  width: 100%;
+}
+
+#slideDiv{
+  width: 100%;
+}
